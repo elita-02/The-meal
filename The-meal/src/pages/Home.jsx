@@ -31,7 +31,7 @@ import buns from "../assets/vqpwrv1511723001.jpg"
 import bread from "../assets/Wholegrain_Bread-medium.png"
 import king from "../assets/King_Prawns-medium.png"
 import kus from "../assets/Khus_Khus-medium.png"
-import Banner from "../Banner/Banner";
+import Banner from "../Components/Banner/Banner";
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
 function Home() {

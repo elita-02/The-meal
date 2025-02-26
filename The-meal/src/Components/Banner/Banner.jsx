@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import "./Banner.css";
 import { FaSearch } from "react-icons/fa";
-import meal from "../assets/meal-icon.png";
-import coffe from "../assets/coffe.png";
-import mal from "../assets/meal.png";
-import kar from "../assets/kartink.png";
+import meal from "../../assets/meal-icon.png"
+import coffe from "../../assets/coffe.png"
+import mal from "../../assets/meal.png"
+import kar from "../../assets/kartink.png";
 
 function Banner() {
   const [search, setSearch] = useState(""); 
